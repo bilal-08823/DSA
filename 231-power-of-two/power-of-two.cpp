@@ -11,6 +11,6 @@ public:
 
             n = n/2;
         }
-        return 1;
+        return n;
     }
 };
